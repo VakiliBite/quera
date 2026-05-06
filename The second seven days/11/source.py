@@ -12,6 +12,3 @@ def game(number):
     
     
     return result
-
-
-print(game(81))
